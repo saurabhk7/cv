@@ -136,7 +136,7 @@ projects:
     assignments:
       - title: Cognitive Intelligence and Knowledge-based reasoning
         link: "#hook"
-        tagline: "Extracting the learning capacity of students with ​ tensor factorization and personalizing content and teaching patterns through​ knowledge tracing​​ with custom “Course-Progress Tests”."
+        tagline: "Extracting the learning capacity of students with tensor factorization and personalizing content and teaching patterns through knowledge tracing with custom “Course-Progress Tests”."
 
       - title: Pathology - Dengue and Sepsis Early Detection and Prognosis System
         link: "#"
@@ -144,15 +144,15 @@ projects:
 
       - title: Radiology - CT Scan Diagnosis, Analysis and Assistive Tool for Triage Priority
         link: "#"
-        tagline: "Using Region-based Convolutional Neural Networks (R-CNN) and histogram equalization to analyze Brain CT Scan Images (Axial 5 m.m. Series of 32 image slices) to detect abnormalities of patients and to provide assistance to radiologists in emergency cases by reducing the CT scan reading time. A decision support system based on​ Region Proposal Network ​ applied to neighboring axial CT image slices."
+        tagline: "Using Region-based Convolutional Neural Networks (R-CNN) and histogram equalization to analyze Brain CT Scan Images (Axial 5 m.m. Series of 32 image slices) to detect abnormalities of patients and to provide assistance to radiologists in emergency cases by reducing the CT scan reading time. A decision support system based on Region Proposal Network applied to neighboring axial CT image slices."
 
       - title: Mastering Zero-sum games using self-play
         link: "#"
-        tagline: "Developed Chess engine, ‘Gambit’ based on Monte Carlo Tree Search​​ simulation relying on ​ deep neural networks for zero-sum games to evaluate possible positions and sample moves. Implemented ​ self-play reinforcement learning​​ to allow the engine to learn to play the game by solely analyzing the final outcome of the past games."
+        tagline: "Developed Chess engine, ‘Gambit’ based on Monte Carlo Tree Search simulation relying on deep neural networks for zero-sum games to evaluate possible positions and sample moves. Implemented ​ self-play reinforcement learning to allow the engine to learn to play the game by solely analyzing the final outcome of the past games."
 
-      - title: ‘​​ JustBus’ - Real-time bus tracking and secure student attendance using Radio Frequency Identificatio​​n System
+      - title: JustBus- Real-time bus tracking and secure student attendance using Radio Frequency Identification System
         link: "#"
-        tagline: "Technologies: ​ GPS tracking, RFID and Near Field Communication, Message Passing protocols - MQTT Protoco"
+        tagline: "Technologies: GPS tracking, RFID and Near Field Communication, Message Passing protocols - MQTT Protoco"
 
 publications:
     title: Publications
