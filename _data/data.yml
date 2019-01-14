@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: saurabhkshirsagar35@gmail.com
     phone: 8408845374
-    #website: blog.webjeda.com #do not add http://
+    website: #blog.webjeda.com #do not add http://
     linkedin: saurabhksagar
     github: saurabhk7
     gitlab:
@@ -152,7 +152,7 @@ projects:
 
       - title: JustBus- Real-time bus tracking and secure student attendance using Radio Frequency Identification System
         link: "#"
-        tagline: "Technologies: GPS tracking, RFID and Near Field Communication, Message Passing protocols - MQTT Protoco"
+        tagline: "Technologies: GPS tracking, RFID and Near Field Communication, Message Passing protocols - MQTT Protocol"
 
 publications:
     title: Publications
