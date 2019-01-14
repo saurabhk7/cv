@@ -132,7 +132,7 @@ projects:
     assignments:
       - title: Cognitive Intelligence and Knowledge-based reasoning
         link: "#hook"
-        tagline: "Extracting the learning capacity of students with tensor factorization and personalizing content and teaching patterns through knowledge tracing with custom “Course-Progress Tests”."
+        tagline: "Extracting the learning capacity of students with tensor factorization and personalizing content and teaching patterns through knowledge tracing with custom Course-Progress Tests."
 
       - title: Pathology - Dengue and Sepsis Early Detection and Prognosis System
         link: "#"
