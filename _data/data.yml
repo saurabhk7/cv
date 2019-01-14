@@ -48,13 +48,13 @@ career-profile:
     title: Career Profile
     summary: |
       A National Talent Search Scholar, currently pursuing Bachelor's Degree in Computer Engineering at Pune Institute of Computer Technology, Pune (expected completion May, 2019). Very keen to learn new technologies and softwares. Also, I am focused on delivering in diverse environment I am a Fast Learner and can hit the ground running. I have a Hands-on experience of development and performance tuning tools and softwares also I have a deep insight and experience regarding completing project deadlines with 100% dedication and effort. Also I worked on many Android Development projects. One of them is "Messed Up", a fully functioning commercial Android Application focused to solve the food needs of almost every hostelite. Currently studying and interested in the fields of High Performance Computing (HPC) and Code Performance Tuning and Monitoring.
-
+      
       Second paragraph if required.
 
 education:
     - degree: BE in Computer Engineering
-      university: Savitribai Phule Pune University (formerly University of Pune)
-      time: 2015 - 2019 (expected)
+      university: Savitribai Phule Pune University - formerly University of Pune
+      time: 2015 - 2019 - expected
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
