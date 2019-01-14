@@ -8,57 +8,57 @@ sidebar:
 
     # Profile information
     name: Saurabh Kshirsagar
-    tagline: Full Stack Developer
+    tagline: Student at Pune Institute of Computer Technology
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: saurabhkshirsagar35@gmail.com
     phone: 8408845374
-    website: blog.webjeda.com #do not add http://
+    #website: blog.webjeda.com #do not add http://
     linkedin: saurabhksagar
     github: saurabhk7
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@better_twetter'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Marathi
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Hindi
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
+    #interests:
+      #- item: Climbing
+      #  link:
 
-    interests:
-      - item: Climbing
-        link:
+      #- item: Snowboarding
+      #  link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      #- item: Cooking
+      #  link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      A National Talent Search Scholar, currently pursuing Bachelor's Degree in Computer Engineering at Pune Institute of Computer Technology, Pune (expected completion May, 2019). 
+      Very keen to learn new technologies and softwares. Also, I am focused on delivering in diverse environment I am a Fast Learner and can hit the ground running. I have a Hands-on experience of development and performance tuning tools and softwares also I have a deep insight and experience regarding completing project deadlines with 100% dedication and effort. 
+      Also I worked on many Android Development projects . 
+      One of them is "Messed Up", a fully functioning commercial Android Application focused to solve the food needs of almost every hostelite. 
+      Currently studying and interested in the fields of High Performance Computing (HPC) and Code Performance Tuning and Monitoring.
 
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BE in Computer Engineering
+      university: Savitribai Phule Pune University (formerly University of Pune)
+      time: 2015 - 2019 (expected)
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -134,25 +134,25 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Cognitive Intelligence and Knowledge-based reasoning
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Extracting the learning capacity of students with ​ tensor factorization and personalizing content and teaching patterns through​ knowledge tracing​​ with custom “Course-Progress Tests”."
 
-      - title: DevStudio
+      - title: Pathology - Dengue and Sepsis Early Detection and Prognosis System
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Using image processing to analyze blood smear image data and building classification models by analyzing abnormal cell growth and blood count to detect dengue and early stage sepsis with comprehensive result analysis and verification using VCS Scatter Plot interpretation."
 
-      - title: Tempo
+      - title: Radiology - CT Scan Diagnosis, Analysis and Assistive Tool for Triage Priority
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Using Region-based Convolutional Neural Networks (R-CNN) and histogram equalization to analyze Brain CT Scan Images (Axial 5 m.m. Series of 32 image slices) to detect abnormalities of patients and to provide assistance to radiologists in emergency cases by reducing the CT scan reading time. A decision support system based on​ Region Proposal Network ​ applied to neighboring axial CT image slices."
 
-      - title: Atom
+      - title: Mastering Zero-sum games using self-play
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Developed Chess engine, ‘Gambit’ based on Monte Carlo Tree Search​​ simulation relying on ​ deep neural networks for zero-sum games to evaluate possible positions and sample moves. Implemented ​ self-play reinforcement learning​​ to allow the engine to learn to play the game by solely analyzing the final outcome of the past games."
 
-      - title: Delta
+      - title: ‘​​ JustBus’ - Real-time bus tracking and secure student attendance using Radio Frequency Identificatio​​n System
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Technologies: ​ GPS tracking, RFID and Near Field Communication, Message Passing protocols - MQTT Protoco"
 
 publications:
     title: Publications
@@ -196,5 +196,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
